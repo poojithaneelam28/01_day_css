@@ -7,3 +7,8 @@ css has two main parts<br>
 (2)declaration<br>
 css provides powerful control over the presentation of an html document<br>
 in html 4.0,all formatting could  be removed from the html document,and stored in a separate css file<br>
+embedded css in html<br>
+inline css in html<br>
+external css in html<br>
+imported css in html<br>
+id selector css in html
